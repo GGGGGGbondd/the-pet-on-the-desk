@@ -1,0 +1,10 @@
+# 个人灵感数据（不上传）
+data/
+
+# 调试与崩溃日志
+*.log
+pet_*.png
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
