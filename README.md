@@ -6,13 +6,13 @@ A lightweight, install-free Windows desktop idea catcher: a small floating ball 
 
 ## 功能 Features
 
-- 🎈 常驻小圆球，点击展开输入面板 / Persistent ball, click to expand
-- ✍️ 输入灵感，Ctrl + Enter 快速保存 / Type an idea, Ctrl + Enter to save
-- 📚 “看看以前的” 回看最近 30 条记录 / Review the last 30 saved ideas
-- 🖱️ 小球和面板都可以按住拖动 / Drag the ball or the panel to reposition
-- ⌨️ Ctrl + Alt + I 随时隐藏 / 唤回（唯一能让宠物消失的快捷键）/ Hide & recall anytime (the only way to make the pet fully disappear)
-- 🔒 数据只保存在本地，不上传网络 / All data stays local — nothing is uploaded
-- 🚀 支持开机自启 / Auto-start on boot
+-  常驻小圆球，点击展开输入面板 / Persistent ball, click to expand
+-  输入灵感，Ctrl + Enter 快速保存 / Type an idea, Ctrl + Enter to save
+-  “看看以前的” 回看最近 30 条记录 / Review the last 30 saved ideas
+-  小球和面板都可以按住拖动 / Drag the ball or the panel to reposition
+-  Ctrl + Alt + I 随时隐藏 / 唤回（唯一能让宠物消失的快捷键）/ Hide & recall anytime (the only way to make the pet fully disappear)
+-  数据只保存在本地，不上传网络 / All data stays local — nothing is uploaded
+-  支持开机自启 / Auto-start on boot
 
 ## 使用方法 Usage
 
